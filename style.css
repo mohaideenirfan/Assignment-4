@@ -73,7 +73,7 @@ nav a {
   min-width: 250px;
   aspect-ratio: 1 / 1;
   background-color: #3b82f6;
-  background-image: url('assets/img.jpg');
+  background-image: url('assets/Img.jpg');
   background-size: cover;
   background-position: center;
   border-radius: 50% 50% 45% 55% / 60% 40% 60% 40%;
@@ -185,7 +185,7 @@ nav a {
 }
 
 .image-one {
-  background-image: url('assets/image10.png');
+  background-image: url('assets/image10(1).png');
 }
 
 .image-two {
@@ -193,7 +193,7 @@ nav a {
 }
 
 .image-three {
-  background-image: url('assets/image10.png');
+  background-image: url('assets/image10(1).png');
 }
 
 .project-info {
