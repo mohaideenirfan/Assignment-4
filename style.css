@@ -153,8 +153,6 @@ nav a {
   border-radius: 10px;
   transition: width 1s ease-in-out;
 }
-
-/* Projects Section */
 .projects-section {
   padding: 2rem;
   text-align: center;
@@ -195,7 +193,7 @@ nav a {
 }
 
 .image-three {
-  background-image: url('assets/Img3.jpg');
+  background-image: url('assets/Img10.jpg');
 }
 
 .project-info {
